@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Appointment Booking System",
+  "description": "A comprehensive clinic booking system featuring patient registries, doctor directory searches, available time-slot validators, appointment history charts, and doctor treatment loggers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
